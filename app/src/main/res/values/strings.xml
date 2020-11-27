@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo Drawer</string>
+    <string name="menu_opc1">Opcion 1</string>
+    <string name="menu_opc2">Opcion 2</string>
+    <string name="menu_opc3">Opcion 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
